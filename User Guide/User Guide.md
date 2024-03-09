@@ -1,42 +1,46 @@
-E-VARA
+# EVARA
 Ethical Violation Analysis and Risk Assessment 
 
-The User Guide 
+## The User Guide 
+
 February 29th 2024 
- 
-About EVARA
-Purpose 
+
+### About EVARA
+**Purpose**
+
 The purpose of EVARA is to systematically evaluate the potential risks associated with activities, decisions, or technologies, focusing specifically on their potential to violate critical human values. Through comprehensive analysis and assessment, the tool aims to identify and prioritize ethical risks, enabling stakeholders to make informed decisions and mitigate potential harm to individuals, communities, and society as a whole. By integrating value-based considerations into risk assessment processes, we strive to promote responsible decision-making and uphold fundamental human values in various domains. 
 
-Applicability
+**Applicability**
+
 EVARA is designed to be flexible and adaptable, making it applicable across various phases of the machine learning lifecycle. Whether in the early stages of system design, during development and training, or in the deployment and monitoring phases, our tool provides valuable insights to system developers, designers, and policymakers. 
 EVARA is designed to be user-friendly and accessible to a wide range of stakeholders, including system developers, designers, and policymakers with varying levels of technical expertise. Its modular and customizable nature allows users to tailor the assessment process to their specific context and requirements, ensuring relevance and effectiveness across diverse applications and domains within the machine learning lifecycle.
-Pre-VARA
+
+
+### Pre-VARA
+
 It is the responsibility of the user to conduct in-depth research on the value violation and the system being evaluated. 
 
 In preparation for using the tool, it is recommended that the following actions be considered:
-1-	Utilizing knowledge bases that report AI-related incidents. 
-a.	AIVMDB
-b.	AIAAIC Repository 
-c.	Bias in AI: Example Tracker 
-d.	AI Incident Database  
-2-	Gathering stakeholder perspectives. This can be done with interviews, surveys, or other methods. 
-3-	Utilizing red teaming efforts. 
 
-E-VARA Structure 
+1. Utilizing knowledge bases that report AI-related incidents. 
+- AIVMDB
+- AIAAIC Repository 
+- Bias in AI: Example Tracker 
+- AI Incident Database  
+2. Gathering stakeholder perspectives. This can be done with interviews, surveys, or other methods. 
+3. Utilizing red teaming efforts. 
 
- 
+### EVARA Structure
 
-
-System Identification: 
+**System Identification:**
 Identifying the system being evaluated by E-VARA. The system is meant to represent the overall item being evaluated. 
 Examples: Self-driving car, Melanoma diagnosis tool, Job application filtering tool. 
 
-Asset/Function Identification: 
+**Asset/Function Identification:**
 Identifying the asset or function within the system being evaluated by E-VARA. The asset of function is the specific portion of the system being evaluated. This portion can be a model, a function, an asset, or an algorithm. 
 Examples: Pedestrian detection model, Melanoma image recognition technology, Resume ranking algorithm. 
 
-MLLC Phase Identification: (optional) 
+**MLLC Phase Identification: (optional)**
 Identifying the phase of the asset MLLC being evaluated. Identify the phase(s) of the machine learning lifecycle that are being included in the evaluation. This part is optional. You may choose one phase, multiple phases, or all phases. 
 
 Suggested machine learning lifecycle Phases: 
