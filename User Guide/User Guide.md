@@ -110,5 +110,5 @@ Use-Case Example(s)
 
 Example 1: Self-Driving Car Pedestrian Detection 
 
-
+[Download User Guide Here](https://github.com/nadamadkour/EVARA/blob/main/User%20Guide/EVARA%20User%20Guide.docx) 
 
