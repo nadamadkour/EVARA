@@ -1,5 +1,5 @@
 # EVARA
-Ethical Violation Analysis and Risk Assessment 
+## Ethical Violation Analysis and Risk Assessment 
 
 
 
@@ -14,4 +14,4 @@ EVARA is designed to be user-friendly and accessible to a wide range of stakehol
 Pre-VARA
 It is the responsibility of the user to conduct in-depth research on the value violation and the system being evaluated. 
 
-For more information, please read the full user guide. 
+For more information, please read the full [EVARA user guide](https://github.com/nadamadkour/EVARA/blob/main/User%20Guide/User%20Guide.md). 
