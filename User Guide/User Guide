@@ -3,33 +3,6 @@ Ethical Violation Analysis and Risk Assessment
 
 The User Guide 
 February 29th 2024 
-Table of Contents
-ABOUT E-VARA	3
-PURPOSE	3
-APPLICABILITY	3
-PRE-VARA	3
-E-VARA STRUCTURE	3
-SYSTEM IDENTIFICATION:	4
-ASSET/FUNCTION IDENTIFICATION:	4
-MLLC PHASE IDENTIFICATION: (OPTIONAL)	4
-VALUE IDENTIFICATION:	5
-VALUE VIOLATION:	5
-Impact Rating	5
-Ecosystem Impact Rating:	5
-Organizational Impact Rating:	6
-People/Human Impact Rating:	6
-VALUE VIOLATION SCENARIOS:	7
-Violation Path:	7
-Likelihood Rating:	7
-RISK SCORE:	7
-POST-VARA	8
-USE-CASE EXAMPLE(S)	9
-EXAMPLE 1: SELF-DRIVING CAR PEDESTRIAN DETECTION	9
-
-
-
-
-
  
 About EVARA
 Purpose 
@@ -133,5 +106,5 @@ Use-Case Example(s)
 
 Example 1: Self-Driving Car Pedestrian Detection 
 
-<copy-paste final use case example with various risk levels to demonstrate the range of possible outcomes>
+
 
