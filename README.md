@@ -1,5 +1,4 @@
-# EVARA
-## Ethical Violation Analysis and Risk Assessment 
+
 ![EVARA Logo](https://github.com/nadamadkour/EVARA/assets/8930950/27c94a35-1baf-4af8-afb6-2042604c7689)
 
 
