@@ -55,7 +55,7 @@ List the value violations being assessed for risk. Each value violation should r
 A value violation refers to any action, decision, or outcome, that results in the violation of the value. The value violation is meant to be a more high-level representation of the action/decision/outcome. The value violation paths will be used to represent the detailed steps or requirements of violation materialization. 
 Examples: Bias in the training dataset, Lack of transparency in the model, Low diversity in the design team. 
 
-	**Impact Rating (Severe, Major, Moderate, Negligent).** 
+**Impact Rating (Severe, Major, Moderate, Negligent)** 
 Ecosystem Impact Rating: 
 Rating the impact of the violation on the ecosystem. Impact on the ecosystem includes potential harm to resources and ecosystems, harm to global supply chain or financial systems, and harm to natural resources and the planet (Tabassi, 2023).  
 
