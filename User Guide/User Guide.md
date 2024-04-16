@@ -56,6 +56,7 @@ A value violation refers to any action, decision, or outcome, that results in th
 Examples: Bias in the training dataset, Lack of transparency in the model, Low diversity in the design team. 
 
 **Impact Rating (Severe, Major, Moderate, Negligent)** 
+
 Ecosystem Impact Rating: 
 Rating the impact of the violation on the ecosystem. Impact on the ecosystem includes potential harm to resources and ecosystems, harm to global supply chain or financial systems, and harm to natural resources and the planet (Tabassi, 2023).  
 
