@@ -47,15 +47,15 @@ Suggested machine learning lifecycle Phases:
 Data management, Model training, Model testing, Deployment, Use and monitoring. 
 View more on the MLLC here. 
 
-Value Identification:
+**Value Identification:**
 Identifying the value being assessed for risk. It is recommended that the AI Value Mapping Database (AIVMDB) be used for this step. 
 
-Value Violation:
+**Value Violation:**
 List the value violations being assessed for risk. Each value violation should represent a high-level method that may result in value violation. 
 A value violation refers to any action, decision, or outcome, that results in the violation of the value. The value violation is meant to be a more high-level representation of the action/decision/outcome. The value violation paths will be used to represent the detailed steps or requirements of violation materialization. 
 Examples: Bias in the training dataset, Lack of transparency in the model, Low diversity in the design team. 
 
-	Impact Rating (Severe, Major, Moderate, Negligent).
+	**Impact Rating (Severe, Major, Moderate, Negligent).** 
 Ecosystem Impact Rating: 
 Rating the impact of the violation on the ecosystem. Impact on the ecosystem includes potential harm to resources and ecosystems, harm to global supply chain or financial systems, and harm to natural resources and the planet (Tabassi, 2023).  
 
@@ -80,20 +80,21 @@ Resulting in loss of human life, or long term harm to human well-being (health, 
 These examples are meant to serve as possible descriptions of each category and are context dependent. 
 
 
-Value Violation Scenarios: Each value violation scenario represents a different type of scenario that could lead to the violation. This should represent a more detailed example of the possible scenarios that may lead to the value violation. 
+**Value Violation Scenarios:**
+Each value violation scenario represents a different type of scenario that could lead to the violation. This should represent a more detailed example of the possible scenarios that may lead to the value violation. 
 Examples: Lack of representation in the training data, No labels for protected classes in the training data, Insufficient protection protocols for personal identifying information. 
 
-Violation Path:
+**Violation Path:**
 The violation path(s) represent the series of steps required for the value violation scenario to be executed. A value violation may have one or more possible paths.  
 	
-Likelihood Rating: 
+**Likelihood Rating:**
 The likelihood rating (Very High, High, Medium, Low, Very Low) represents the probability of the violation path happening.  It is recommended to use the Likelihood Rating Score tool for this step. 
 
-Risk Score: 
+**Risk Score:** 
 The risk score will be determined using the Risk Score Matrix, based on the highest Impact Rating and the highest Likelihood Rating as indicated in the examples. 
 
  
-Post-VARA
+## Post-VARA
 Once EVARA is concluded, depending on the results, it is recommended to consider the following:
 -	Transparency-based evaluation and protocols. 
 Transparency aids in the openness and clarity of AI algorithms, processes, and outcomes. 
@@ -106,7 +107,7 @@ Robust documentation and reporting aid in ethical transparency, accountability, 
 It is important to reevaluate your system after a risk assessment until the desired outcome is reached. Risk assessment is often an iterative refinement process. 
    
  
-Use-Case Example(s)
+## Use-Case Example(s)
 
 Example 1: Self-Driving Car Pedestrian Detection 
 
