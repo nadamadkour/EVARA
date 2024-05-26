@@ -3,7 +3,7 @@ Ethical Violation Analysis and Risk Assessment
 
 ## The User Guide 
 
-February 29th 2024 
+May 26th 2024 
 
 ### About EVARA
 **Purpose**
