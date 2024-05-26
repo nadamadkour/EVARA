@@ -32,8 +32,8 @@ In preparation for using the tool, it is recommended that the following actions 
 
 ### EVARA Structure
 
-**System Identification:**
-Identifying the system being evaluated by E-VARA. The system is meant to represent the overall item being evaluated. 
+**System Definition:**
+Defining the system being evaluated by E-VARA. The system is meant to represent the overall item being evaluated. 
 Examples: Self-driving car, Melanoma diagnosis tool, Job application filtering tool. 
 
 **Asset/Function Identification:**
@@ -62,7 +62,7 @@ Rating the impact of the violation on the ecosystem. Impact on the ecosystem inc
 
 Ecosystem Impact Rating scale examples: 
 Severe 	Major	Moderate	Negligent
-Resulting in long term, irreversible impact on the recourses, global supply chain, natural resources, and ecosystems. 	Resulting in short term, irreversible impact on the recourses, global supply chain, natural resources, and ecosystems.	Resulting in short term, reversable impact on the resources, global supply chain, natural resources, and ecosystems.	Resulting in little to no impact on the resources, global supply chain, natural resources, and ecosystems.
+Resulting in long term, irreversible impact on the resources, global supply chain, natural resources, and ecosystems. 	Resulting in short term, irreversible impact on the resources, global supply chain, natural resources, and ecosystems.	Resulting in short term, reversible impact on the resources, global supply chain, natural resources, and ecosystems.	Resulting in little to no impact on the resources, global supply chain, natural resources, and ecosystems.
 These examples are meant to serve as possible descriptions of each category and are context dependent. 
 Organizational Impact Rating: 
 Rating the impact of the violation on the organization. Impact on the environment includes potential harm to business operations, security breaches, monetary loss, and harm to reputation (Tabassi, 2023).
@@ -77,7 +77,7 @@ Rating the impact of the violation on people. Harm to people includes harm to an
 
 People/Human Impact Rating scale examples: 
 Severe 	Major	Moderate	Negligent
-Resulting in loss of human life, or long term harm to human well-being (health, safety, security, privacy, freedom, civil rights)	Resulting in short- or long-term harm to human well-being (health, safety, security, privacy, freedom, civil rights)	Resulting in short term reversible harm to human well-being (health, safety, security, privacy, freedom, civil rights).  	Resulting in no harm or short-term superficial harm that is reversable. 
+Resulting in loss of human life, or long term harm to human well-being (health, safety, security, privacy, freedom, civil rights)	Resulting in short- or long-term harm to human well-being (health, safety, security, privacy, freedom, civil rights)	Resulting in short term reversible harm to human well-being (health, safety, security, privacy, freedom, civil rights).  	Resulting in no harm or short-term superficial harm that is reversible. 
 These examples are meant to serve as possible descriptions of each category and are context dependent. 
 
 
