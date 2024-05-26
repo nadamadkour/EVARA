@@ -18,4 +18,4 @@ Pre-VARA
 
 It is the responsibility of the user to conduct in-depth research on the value violation and the system being evaluated. 
 
-For more information, please read the full [EVARA user guide](https://github.com/nadamadkour/EVARA/blob/main/User%20Guide/User%20Guide.md). 
+For more information, please read the full [EVARA user guide](https://github.com/nadamadkour/EVARA/tree/main/User%20Guide). 
